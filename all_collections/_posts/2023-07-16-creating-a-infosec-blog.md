@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a InfoSec Blog."
-date:   2023-07-16 09:41:00 +0200
+date:   2023-07-16
 categories: about
 ---
 
